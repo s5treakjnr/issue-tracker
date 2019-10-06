@@ -23,4 +23,6 @@ This is a simple open issue tracker which fetches open issues using github api, 
  - To bundle, just type `./node_modules/webpack/bin/webpack.js` and let webpack do the work.
  - Push the code to your fork and then add Pull Request.
  
+**Maintainer**
+- Lakshya Khera (Core Member) 
 ### Happy Coding!
